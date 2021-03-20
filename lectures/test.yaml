@@ -1,0 +1,6 @@
+username: user
+password: password
+server:
+    service_type: ondemand
+    url: myserver.com
+    org: VDC1

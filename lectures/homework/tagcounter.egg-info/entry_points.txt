@@ -1,0 +1,4 @@
+[console_scripts]
+manage_synonyms = tagcounter.tagcounter:manage_alias
+tagcounter = tagcounter.tagcounter:main
+

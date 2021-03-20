@@ -1,0 +1,10 @@
+setup.py
+foobar/__init__.py
+foobar/__main__.py
+foobar/example.txt
+foobar/foobaz.py
+foobar.egg-info/PKG-INFO
+foobar.egg-info/SOURCES.txt
+foobar.egg-info/dependency_links.txt
+foobar.egg-info/entry_points.txt
+foobar.egg-info/top_level.txt
